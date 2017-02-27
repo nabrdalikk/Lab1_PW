@@ -2,7 +2,7 @@
 #ifdef USE_TRIGONOMETRY_DEGREE
 #include <trygonometria.h>
 #else
-#include <mat.h>
+#include <math.h>
 #endif
 int main() 
 {
