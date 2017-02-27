@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laborka", "Laborka.vcxproj"
 		{86227169-B875-3213-8739-5F71210A21EF} = {86227169-B875-3213-8739-5F71210A21EF}
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RUN_TESTS", "RUN_TESTS.vcxproj", "{4E05033E-E613-39DB-BF51-D4D81B924DCA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "ZERO_CHECK.vcxproj", "{86227169-B875-3213-8739-5F71210A21EF}"
 	ProjectSection(ProjectDependencies) = postProject
 	EndProjectSection
@@ -35,6 +39,10 @@ Global
 		{1C4F3557-EBFE-3470-A6C6-718DBC1ADBD2}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
 		{1C4F3557-EBFE-3470-A6C6-718DBC1ADBD2}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
 		{1C4F3557-EBFE-3470-A6C6-718DBC1ADBD2}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+		{4E05033E-E613-39DB-BF51-D4D81B924DCA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E05033E-E613-39DB-BF51-D4D81B924DCA}.Release|Win32.ActiveCfg = Release|Win32
+		{4E05033E-E613-39DB-BF51-D4D81B924DCA}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{4E05033E-E613-39DB-BF51-D4D81B924DCA}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
 		{86227169-B875-3213-8739-5F71210A21EF}.Debug|Win32.ActiveCfg = Debug|Win32
 		{86227169-B875-3213-8739-5F71210A21EF}.Debug|Win32.Build.0 = Debug|Win32
 		{86227169-B875-3213-8739-5F71210A21EF}.Release|Win32.ActiveCfg = Release|Win32
