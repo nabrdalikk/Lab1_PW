@@ -1,2 +1,5 @@
-int main() {
-/*...*/ return 0; }
+#include <trygonometria.h>
+int main() 
+{
+double wynik = sin_degree(15); 
+}
